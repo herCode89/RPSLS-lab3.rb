@@ -1,0 +1,51 @@
+Paper covers Rock
+Lose
+Paper covers Rock
+Win
+Lizard Kisses Lizard
+Tie
+Spock equals Spock
+Tie
+Scissors equals Scissors
+Tie
+Welcome to Rock, Paper, Scissors, Lizard, Spock
+Please choose two players: 
+ (1) StupidBot
+ (2) RandomBot
+ (3) IteractiveBot
+ (4) LastPlayBot
+ (5) Human
+Select player 1: 
+Select player 2: 
+Round 1: 
+(1) Rock
+(2) Scissors
+(3) Paper
+(4) Lizard
+(5) Spock
+Enter your move: 
+(1) Rock
+(2) Scissors
+(3) Paper
+(4) Lizard
+(5) Spock
+Enter your move: 
+Player 1 chose Spock
+Player 2 chose Lizard
+Lizard poisons Spock
+Player 2 won the round
+Round 2: 
+(1) Rock
+(2) Scissors
+(3) Paper
+(4) Lizard
+(5) Spock
+Enter your move: 
+(1) Rock
+(2) Scissors
+(3) Paper
+(4) Lizard
+(5) Spock
+Enter your move: 
+Player 1 chose Scissors
+Player 2 chose Lizard
